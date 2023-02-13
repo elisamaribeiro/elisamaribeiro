@@ -1,4 +1,5 @@
-### Olá, pessoal! Eu sou a Elisama Ribeiro.
+### Olá, pessoal! 
+### Eu sou a Elisama Ribeiro.
 
 Atualmente, trabalho com investimento financeiro internacional e estudo Data Science e Analytics, R e Python.
 
