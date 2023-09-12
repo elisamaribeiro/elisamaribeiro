@@ -1,4 +1,4 @@
-# **Elisama Manuelle Ribeiro**
+# **Elisama Manuelle Ribeiro da Silva**
 
 👩‍💼 Profissional de Finanças e Data Science
 
