@@ -18,8 +18,6 @@ Combinando minha formação em economia, pós-graduação em Data Science e Anal
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elisamaribeiro&show_icons=true&theme=neon&hide_title=true&hide=stars)
 
-### Most Used Languages
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisamaribeiro&layout=compact&theme=neon)](https://github.com/elisamaribeiro/github-readme-stats)
 
 
