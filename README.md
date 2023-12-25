@@ -1,12 +1,10 @@
 # **Elisama Manuelle Ribeiro da Silva**
 
-👩‍💼 Profissional de Finanças e Data Science
+👩‍💼 Profissional de Data Science
 
 📚 Formação em Economia e Pós-Graduação em Data Science and Analytics
 
-💼 Compliance Advisor | Equity Trader 
-
-Combinando minha formação em economia, pós-graduação em Data Science e Analytics, além de habilidades em análise de dados e programação, estou preparada para contribuir em projetos relacionados a essas áreas. Determinada e curiosa, busco sempre a excelência e a atualização constante para oferecer resultados de alta qualidade.
+💼 Analista de Agronegócio 
 
 ### Connect with me
 
