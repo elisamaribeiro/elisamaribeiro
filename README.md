@@ -1,10 +1,10 @@
 # **Elisama Manuelle Ribeiro da Silva**
 
-👩‍💼 Profissional de Data Science
+👩‍💼 Profissional de Análise e Ciência de Dados
 
-📚 Formação em Economia e Pós-Graduação em Data Science and Analytics
+📚 Formação em Economia e Pós-Graduação em Análise e Ciência de Dados
 
-💼 Analista de Agronegócio 
+💼 Analista de Dados do Agronegócio Pleno 
 
 ### Connect with me
 
