@@ -14,6 +14,6 @@
 
 ### GitHub Top Langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisamaribeiro&layout=compact&theme=neon&color=white)](https://github.com/elisamaribeiro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elisamaribeiro&layout=compact)](https://github.com/elisamaribeiro/github-readme-stats)
 
 
