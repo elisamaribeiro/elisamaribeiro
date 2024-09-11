@@ -1,6 +1,6 @@
 # **Elisama Manuelle Ribeiro da Silva**
 
-Profissional de Análise e Ciência de Dados | Formação em Economia e Pós-Graduação em Análise e Ciência de Dados | Analista de Dados do Agronegócio Pleno 
+Especialista em Análise e Ciência de Dados | Bacharel em Ciências Econômicas | Analista de Dados Pleno 
 
 ### GitHub Top Langs
 
